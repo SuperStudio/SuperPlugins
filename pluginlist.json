@@ -34,6 +34,13 @@
       "Version": "1.0.0",
       "Date": "2022-09-04",
       "Desc": "一拳超人"
+    },
+    {
+      "PluginID": "Git_Test",
+      "PluginName": "诱人",
+      "Version": "1.0.0",
+      "Date": "2024-07-24",
+      "Desc": "诱人"
     }
   ]
 }
